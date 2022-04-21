@@ -1,5 +1,5 @@
 # Blok-Tech
-Hier is mijn project voor dit blok
+Hier is mijn project voor dit blok. Lees graag mijn Wiki voor productbiografie.
 
 ## Wie ben je
 Mijn naam is Xiao Nan Pols. 2e jaars CMD. Ik doe Blok Tech omdat ik een front-end developer wil worden.
