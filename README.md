@@ -10,3 +10,9 @@ Voor de opleiding CMD met het project Tech gaan wij een matching applicatie bouw
 ## Wat is je concept?
 Ik ga een k-drama matching applicatie bouwen waarbij k-drama kijkers met dezelfde interesses vrienden met elkaar kunnen worden. Zo kunnen zij bijvoorbeeld samen hun favoriete k-drama's kijken. 
 Ik kies voor k-drama's omdat ik zelf dat ook kijk. Ik heb dan een persoonlijke band met dit project waardoor ik meer motivatie heb om aan dit project te werken. 
+
+## Wat doet het project?
+
+## Waarom is het project nuttig?
+
+## Hoe gebruik je het project?
