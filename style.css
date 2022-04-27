@@ -37,6 +37,7 @@ header {
     padding: 1.25em 1.875em; /*20px 30px*/
     border-radius: 0em 0em 3.125em 3.125em; /*50px*/
     background-image: var(--gradient-black-transparent), url('img/101.gif');
+    /* Bron: https://aminoapps.com/c/k-drama/page/blog/the-hymn-of-death-17-review/j0Wh_KuVGPaM4W31Z1MDK8mLWW48dw2 */
     background-size: cover;
     background-position: center;
     /* Bron: https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html/ */
@@ -126,6 +127,7 @@ form {
 }
 
 /* Responsive */
+/* Bron: https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
     /* Index.html */
