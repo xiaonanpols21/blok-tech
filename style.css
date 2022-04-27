@@ -14,6 +14,8 @@
     --white: #ffffff;
     --bg-color: #1a1a1a;
 
+    --purple-active: #3b4161;
+
     --gradient-black-transparent: linear-gradient(0deg, rgba(0,0,0,0.6) 0%, rgba(255,255,255,0) 50%);
 }
 
@@ -81,17 +83,49 @@ header p {
     padding: 1.5625em  1.875em; /*25px 30px*/
     border-radius: 1.25em;
     background-color: var(--purple);
+    border: 1px solid transparent;
     text-align: center;
     font-size: 1.125em; /*18x*/
     line-height: 1.875em; /*30px*/
     color: var(--white);
     font-weight: bold;
+    transition: .4s;
+}
+
+.main-index a:hover {
+    border: 1px solid var(--purple);
+    background: transparent;
+}
+
+/* Als ik active boven focus doe, doet hij focus voor active state */
+.main-index a:focus {
+    background-color: var(--pink);
+}
+
+.main-index a:active {
+    background-color: var(--purple-active);
+    border: 1px solid var(--purple-active);
 }
 
 .main-index img {
     height: 6.25em; /*100px*/
 }
 
+    /* form.html */
+body img {
+    display: flex;
+    margin: 1.25em auto auto auto;
+    height: 50px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25em;
+    padding: 1.25em;
+}
+
+/* Responsive */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
     /* Index.html */
