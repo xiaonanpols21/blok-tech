@@ -34,8 +34,9 @@ header {
     height: 25em; /*400px*/
     padding: 1.25em 1.875em; /*20px 30px*/
     border-radius: 0em 0em 3.125em 3.125em; /*50px*/
-    background-image: var(--gradient-black-transparent), url('img/101.jpeg');
+    background-image: var(--gradient-black-transparent), url('img/101.gif');
     background-size: cover;
+    background-position: center;
     /* Bron: https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html/ */
 }
 
@@ -101,7 +102,6 @@ header p {
 
     header {
         padding: 3.125em;
-        background-image: var(--gradient-black-transparent), url('img/101-desk.jpeg');
     }
 
     header div {
@@ -143,7 +143,6 @@ header p {
     header {
         grid-column-start: 2;
         grid-column-end: 3;
-        background-image: var(--gradient-black-transparent), url('img/101.jpeg');
         border-radius: 2.5em; /*40px*/
         height: 100%;
     }
