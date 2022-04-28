@@ -1,4 +1,6 @@
 # Blok-Tech
+Mijn resprocity is veranderd: Ga naar: https://github.com/xiaonanpols21/block-tech-v2
+
 Hier is mijn project voor dit blok. Lees graag mijn [Wiki](https://github.com/xiaonanpols21/blok-tech/wiki) voor diep gaande informatie.
 
 ## Wie ben je
